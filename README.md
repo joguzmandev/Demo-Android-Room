@@ -5,3 +5,8 @@ Library used:
 * Room
 * Coroutines
 * Lifecycle KTX (integrated Coroutines)
+
+
+## ScreenShot
+
+![Image of JGuzmanDev](https://github.com/JGuzmanDev/Demo-Android-Room/blob/master/app/img/screenshot.JPG)
